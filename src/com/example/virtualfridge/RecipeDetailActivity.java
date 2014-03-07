@@ -19,8 +19,8 @@ public class RecipeDetailActivity extends Activity {
     private static String url = "http://api.yummly.com/v1/api/recipe";
     
     // Authentication
-    private static String APP_KEY = "d7d300d31e29e1957cc52ca6e36f036b";
-    private static String APP_ID = "2183780d";
+    private static String APP_KEY = "YOUR_APP_KEY_HERE";
+    private static String APP_ID = "YOUR_APP_ID_HERE";
     private String params;
  
     // JSON Node names
