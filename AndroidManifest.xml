@@ -7,6 +7,9 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="18" />
+    
+     <!-- Internet permission -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -33,6 +36,10 @@
         <activity
             android:name="com.example.virtualfridge.RecipeDetailActivity"
             android:label="@string/title_activity_recipe_detail" >
+        </activity>
+        <activity
+            android:name="com.example.virtualfridge.OpenActivity"
+            android:label="@string/title_activity_open" >
         </activity>
     </application>
 

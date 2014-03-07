@@ -7,5 +7,40 @@
     <string name="title_activity_load">LoadActivity</string>
     <string name="title_activity_recipe_list">RecipeListActivity</string>
     <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+    <string name="title_activity_open">OpenActivity</string>
+    
+    <string-array name="groceries">
+        <item>Opo</item>
+        <item>Okra</item>
+        <item>Milk</item>
+        <item>Tomato</item>
+        <item>Carrot</item>
+        <item>Egg Plant</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Spinach</item>
+        <item>Potato</item>
+        <item>Cheese</item>
+        <item>Chilli</item>
+        <item>Cilantro</item>
+        <item>Mint</item>
+        <item>Yam</item>
+        <item>Alfalfa</item>
+        <item>Bread</item>
+        <item>Tindora</item>
+        <item>Turnip</item>
+        <item>Butter</item>
+        <item>Onion</item>
+        <item>Curry Leaves</item>
+        <item>Dikon</item>
+        <item>BellPepper</item>
+        <item>Cucumber</item>
+        <item>Zuccini</item>
+        <item>Lowfat</item>
+        <item>coke</item>
+        <item>Ginger</item>
+        <item>Garlic</item>
+        
+    </string-array>
 
 </resources>
