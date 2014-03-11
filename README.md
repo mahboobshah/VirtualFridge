@@ -36,6 +36,6 @@ TO-DO:
 
 3) UI improvements
 
-4) Add more details to view. e.g: add image, add link to source website, add nutrition info, etc,.
+4) Add more details to Recipe Detail Activity. e.g: add image, add link to source website, add nutrition info, etc,.
 
 .....
