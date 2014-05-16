@@ -38,4 +38,5 @@ TO-DO:
 
 4) Add more details to Recipe Detail Activity. e.g: add image, add link to source website, add nutrition info, etc,.
 
+5) Sync fridge data with cloud 
 .....
