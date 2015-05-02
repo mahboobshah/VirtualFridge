@@ -40,3 +40,5 @@ TO-DO:
 
 5) Sync fridge data with cloud 
 .....
+
+6) Adding test line
